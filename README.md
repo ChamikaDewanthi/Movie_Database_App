@@ -13,7 +13,7 @@ The application reads movie data from a local JSON file, parses it, and dynamica
 
 ## Installation as an App
 
-1. Download the APK file from this repository.
+1. Generate the APK file from the project.
 2. Transfer the APK to your Android device.
 3. Enable "Install from unknown sources" in device settings.
 4. Open the APK file and install the application.
